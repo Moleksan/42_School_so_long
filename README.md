@@ -6,7 +6,7 @@ How I Developed the Project
   
 1. Understanding the Basics  
   
-Before diving into the project, I started learning the essentials of working with textures and rendering a window. The guide I used for the initial setup and understanding can be found here. This resource gave me a foundation on how to:  
+Before diving into the project, I started learning the essentials of working with textures and rendering a window. The guide I used for the initial setup and understanding can be found [here](https://reactive.so/post/42-a-comprehensive-guide-to-so_long/). This resource gave me a foundation on how to:  
   
 - Open a window using the MinilibX library.  
 - Paint graphics inside the window.  
@@ -14,14 +14,14 @@ Before diving into the project, I started learning the essentials of working wit
 
 2. Setting up the Window and Graphics  
   
-After understanding the basics, I followed the tutorial to configure and open a game window using the MinilibX library. The MinilibX documentation provided clear instructions on how to handle window creation and rendering, and I referred to Harm Smits' MinilibX guide frequently for technical details on window management, handling events, and rendering sprites.  
+After understanding the basics, I followed the tutorial to configure and open a game window using the MinilibX library. The MinilibX documentation provided clear instructions on how to handle window creation and rendering, and I referred to [Harm Smits' MinilibX guide](https://harm-smits.github.io/42docs/libs/minilibx) frequently for technical details on window management, handling events, and rendering sprites.  
 
 3. Working with Textures and Sprites  
   
 To make the game visually interesting, I needed textures for my game. I used two key websites:  
   
-- A page to find and create textures: Texture Page  
-- A tool to convert .png files into .xpm format, which is required for MinilibX: Convertio  
+- A page to find and create textures: [Texture Page](https://www.pixilart.com/)  
+- A tool to convert .png files into .xpm format, which is required for MinilibX: [Convertio](https://convertio.co/)  
   
 These tools helped me prepare all the game assets, which I later loaded into the game using MinilibX functions.  
   
@@ -36,19 +36,13 @@ Once the map was set up, I worked on adding character movement within the game. 
 ### Tools and Resources  
   
 - MinilibX: The graphical library used for opening windows and rendering images.  
-  - MinilibX Documentation  
+  - [MinilibX Documentation](https://convertio.co/) 
 - Texture and Sprite Tools:  
-  - Texture Library  
-  - PNG to XPM Converter  
+  - [Texture Library](https://www.pixilart.com/)  
+  - [PNG to XPM Converter](https://convertio.co/)  
 - Guides:  
-  - Comprehensive Guide to So Long  
+  - [Comprehensive Guide to So Long](https://reactive.so/post/42-a-comprehensive-guide-to-so_long/)  
 
 # Consulation  
   
 This project helped me understand the basics of creating a game, like opening a window, showing textures, and handling player movement. Using the guides and tools, I was able to build a simple 2D game.  
-  
-
-
-
-
-  
